@@ -1,0 +1,47 @@
+.porcentagem{
+	height: 500px;
+	width: 500px;
+	background: black;
+}
+
+.porcentagem-1{
+	height: 50%;
+	width: 50%;
+	background: yellow;
+}
+
+.porcentagem-2{
+	height: 50%;
+	width: 50%;
+	background: darkred;
+}
+
+.porcentagem-3{
+	height: 50%;
+	width: 50%;
+	background: darkblue;
+}
+
+.pai-em{
+	font-size: 50px;
+}
+
+.em-1{
+     height: .2em;
+     width: .2em;
+     background: green;
+}
+
+.rem-1{
+     height: 1rem;
+     width: 1rem;
+     background: dimgray;
+}
+
+html{
+	font-size: 20px;
+}
+
+.rem-2{
+font-size: 2rem;
+}
